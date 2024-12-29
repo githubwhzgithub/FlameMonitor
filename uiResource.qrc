@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="all">
+    <file>UI_image/FPS.png</file>
+    <file>UI_image/model.png</file>
+    <file>UI_image/火.png</file>
+    <file>UI_image/录像.png</file>
+    <file>UI_image/视频.png</file>
+    <file>UI_image/图片.png</file>
+    <file>UI_image/相机.png</file>
+    <file>UI_image/置信度阈值.png</file>
+    <file>UI_image/模型评估_平均交并比评估.png</file>
+    <file>UI_image/16gl-H.png</file>
+    <file>UI_image/16gl-S.png</file>
+    <file>UI_image/huazhongkejidaxue.png</file>
+  </qresource>
+</RCC>
